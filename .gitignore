@@ -13,3 +13,5 @@ yarn-error.log
 deploy.php
 /.idea
 .DS_Store
+.phpunit.result.cache
+/storage/
